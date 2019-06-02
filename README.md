@@ -1,3 +1,1 @@
-# react-ebsi7l
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ebsi7l)
+## Rect.js App with drag and drop options and appearance using snapshot
